@@ -8,3 +8,4 @@ Au fils de ces cours, vous allez apprendre à pimp (personnaiser) votre distribu
 |---|---|---|
 |Le Terminal Linux|[Changer La bannière](/c1.md)|Cours qui vous montre comment modifier la bannière de votre terminal (texte/code qui s'affiche à chaque ouverture)|
 ||[Changer le PS1](/c2.md)|Cours qui vous montre comment changer le texte devant les commandes (PS1)|
+||[Utiliser ZSH et Power10k](/c3.md)|Changez pour un meilleur terminal (ZSH) et personnalisez le avec Oh-My-ZSH et Powerlevel10k|
